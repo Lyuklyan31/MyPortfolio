@@ -14,6 +14,8 @@ Welcome to **MyPortfolio**, a curated collection of **code snippets**, **archite
 - Exploring different approaches like **Clean Architecture**, **VIPER**, **MVP**, and more.
 - Implementing **Dependency Injection** to enhance testability and extensibility.
 
+![Demo](/Users/mac/Downloads/2025-02-1402.39.43-ezgif.com-video-to-gif-converter.gif)
+
 ---
 
 ### ⚡ Combine – Reactive Programming
