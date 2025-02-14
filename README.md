@@ -14,6 +14,8 @@ Welcome to **MyPortfolio**, a curated collection of **code snippets**, **archite
 - Exploring different approaches like **Clean Architecture**, **VIPER**, **MVP**, and more.
 - Implementing **Dependency Injection** to enhance testability and extensibility.
 
+![grab-landing-page](XCoordinatorMVVM/XCoordinator+AnyViewModel.gif)
+
 ---
 
 ### ⚡ Combine – Reactive Programming
